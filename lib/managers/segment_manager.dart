@@ -1,6 +1,5 @@
 import 'package:flame/components.dart';
 
-
 import '../actors/titan_enemy.dart';
 import '../objects/ground_block.dart';
 import '../objects/platform_block.dart';
